@@ -24,7 +24,7 @@ paginate:         2
 version:          1.0.0
 
 github:
-  repo:           github.com/99carl/99carl.github.io
+  repo:           github.com/99carl/99carl.github.i
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
