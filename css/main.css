@@ -88,7 +88,7 @@ footer {
 /* Style page content */
 .container {
   width: 800px;
-  margin-right: 160px; /* Same as the width of the sidebar */
+  margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
