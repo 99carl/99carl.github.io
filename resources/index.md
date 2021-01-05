@@ -5,8 +5,7 @@ title: Useful Resources
 
 Here's a list I'm constantly tinkering with that has some resources I've found interesting and thought I'd share. 
 
-## Books
-###History
+### History
 - *The Ascent of Money*, Niall Ferguson
 - *Lords of Finance*, Liaquat Ahamed
 - *Consumers' Republic*, Lizabeth Cohen
@@ -20,7 +19,7 @@ Here's a list I'm constantly tinkering with that has some resources I've found i
 - *The Rise and Fall of American Growth*, Robert Gordon
 - *Guns, Germs, and Steel*, Jared Diamond
 
-###Economics
+### Economics
 - *Poor Economics*, Abijhit Banerjee & Esther Duflo
 - *Good Economics for Hard Times*, Abijhit Banerjee & Esther Duflo
 - *The Worldly Philosophers*, Robert Heilbroner
@@ -34,13 +33,13 @@ Here's a list I'm constantly tinkering with that has some resources I've found i
 - *Liquidated*, Karen Ho
 - *The Mushroom at the End of the World*, Anna Tsing
 
-###Philosophy
+### Philosophy
 - *Capitalism and Freedom*, Milton Friedman
 - *Capital*, Karl Marx
 - *The Road to Serfdom*, Friedrich Hayek
 - *The Story of Philosophy*, Will Durant
 - *Confidence Games*, Mark Taylor
 
-###Foreign Policy
+### Foreign Policy
 - *A New Foreign Policy*, Jeffrey Sachs
 - *The Clash of Civilizations*, Samuel Huntington
