@@ -15,5 +15,5 @@ Every fortnight, I write an email newsletter that includes some links to things 
   <label for="bd-email">Enter your email:</label>
   <input type="email" name="email" id="bd-email" />
   <input type="hidden" value="1" name="embed" />
-  <input type="submit" value="Subscribe" />
+  <input type="submit" value="Subscribe" target="_blank"/>
 </form>
