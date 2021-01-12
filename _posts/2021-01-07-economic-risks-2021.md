@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What could slow down the global economic recovery in 2021?"
-date: 2021-01-09
+title: "What could slow the global economic recovery in 2021?"
+date: 2021-01-07
 ---
 
 With varying degrees of success, countries across the world are already starting to vaccinate their populations. This is a pretty remarkable feat given that the pandemic first upended global economies less than a year ago. Thanks to this,  rosy forecasts for the economic recovery are in abundance. However, there are key hurdles that could sidetrack the recovery. In this post I take a look at some of them. 
