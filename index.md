@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
 ---
 
-Hi there! My name is Carl and I am a senior at the Univeristy of Chicago, where I am double majoring in Econonomics and Philosophy. Before that, I grew up in London to a Swedish family. I have a keen interest in geopolitics and geoeconomics and I started this blog to pursue that interest even further. Previous internships at Visa and American Express have also led me to grow a particular interest in global financial integration as well as financial inclusion and economic development. 
+Hi! My name is Carl Sacklen and I am a student at the University of Chicago studying Economics and Philosophy. Before that, I grew up in London and am a citizen of both Sweden and Britain.
 
-In my free time I am an avid runner and equally enthusiastic reader. In fact, you can see some books I've found helpful [here](/resources). You can also [follow me on twitter](https://twitter.com/csacklen). 
+My interest surround global economics and geopolitics. Internships at Visa and American Express have also led me to grow an interest in economic development and financial inclusion.
 
+I made this website to publish [side projects](/projects/) on things that pique my interest. You can also [follow me on Twitter](http//:twitter.com/csacklen). 
