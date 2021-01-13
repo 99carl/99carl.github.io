@@ -1,37 +1,5 @@
-# Dependencies
-markdown:         kramdown
-kramdown:
-  extensions: ["tables"]
+name: Carl Sacklen
+markdown: kramdown
 
-highlighter:         rouge
 
-# Permalinks
-permalink:        pretty
 
-# Setup
-title:            Carl Sacklen
-tagline:          
-url:              http://www.carlsacklen.com
-shorturl:         carlsacklen.com
-
-author:
-  name:           'Carl Sacklen'
-  url:            https://twitter.com/csacklen
-
-paginate:         2
-
-# Custom vars
-version:          1.0.0
-
-github:
-  repo:           github.com/99carl/99carl.github.io
-
-# This is the list of pages to include in the header of the website.
-pages_list:       
-  Projects: '/projects/'
-
-# Allow URL Redirects: 
-#  * https://help.github.com/articles/redirects-on-github-pages
-gems:
-  - jekyll-redirect-from
-  - jekyll-paginate
