@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Useful Resources
+permalink: /resources/
 ---
 
 Here's a list I'm constantly tinkering with that has some resources I've found interesting and thought I'd share. 
